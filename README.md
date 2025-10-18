@@ -16,7 +16,7 @@ Built using **Python, OpenCV, DeepFace, SpeechRecognition, Google Gemini API, an
 
 ---
 
-## How to Use
+## Working
 Voice Activation → Face Detection → Recognition (Facenet512)
 →
 Trusted / Unknown?
