@@ -18,13 +18,13 @@ Built using **Python, OpenCV, DeepFace, SpeechRecognition, Google Gemini API, an
 
 ## How to Use
 Voice Activation → Face Detection → Recognition (Facenet512)
-↓
+→
 Trusted / Unknown?
-↓ ↓
+→
 No Alarm 🚨 Alert + Speak
-↓
+→
 Save Image + Sound Buzzer
-↓
+→
 Gemini/GPT generates verbal warning
 
 ## Notes
