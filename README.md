@@ -30,14 +30,10 @@ Gemini/GPT generates verbal warning
 ## Notes
 
 Make sure your buzzer.mp3 file exists in the root folder.
-
 Recommended image size for faces: at least 150×150 px.
-
 Works best under consistent lighting.
-
 Requires internet for Gemini/GPT + gTTS APIs.
 
 ## Authors
-Uday Singh (22B1262)
-Ankit Maurya (22B1266)
+Uday Singh (22B1262) and Ankit Maurya (22B1266)
 
