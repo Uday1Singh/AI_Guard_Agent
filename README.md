@@ -37,3 +37,7 @@ Works best under consistent lighting.
 
 Requires internet for Gemini/GPT + gTTS APIs.
 
+## Authors
+Uday Singh (22B1262)
+Ankit Maurya (22B1266)
+
